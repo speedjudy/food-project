@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "burger": "Burger",
+            "food" : "Food",
+            "combo" : "Combo",
+            "hotdog" : "Hotdog",
+            "call": "one call now",
+            "order": "Order Now"
+        },
+        {
+            "locale": "thai",
+            "burger": "เบอร์เกอร์",
+            "food" : "อาหาร",
+            "combo" : "คำสั่งผสม",
+            "hotdog" : "ฮอทดอก",
+            "call": "หนึ่ง เรียก ตอนนี้",
+            "order": "คำสั่ง ตอนนี้"
+        }
+    ]
+}

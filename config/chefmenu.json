@@ -1,0 +1,69 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/chefdashboard"
+    },
+    {
+      "name": "Manage Food",
+      "url": "/managefood"
+    },
+    {
+      "name": "Manage Property",
+      "url": "/manageproperty"
+    },
+    {
+      "name": "Customer Reviews",
+      "url": "/customer"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "Pricing",
+          "url": "/pricing"
+        },
+        {
+          "text": "Quick Start",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Product",
+      "menu": [
+        {
+          "text": "Features",
+          "url": "#"
+        },
+        {
+          "text": "Platform",
+          "url": "#"
+        },
+        {
+          "text": "Pricing",
+          "url": "/pricing"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "#"
+        },
+        {
+          "text": "Terms & Conditions",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}

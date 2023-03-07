@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "BOOK A ROOM",
+            "semititle" : "View All"
+        },
+        {
+            "locale": "thai",
+            "title": "จองห้อง",
+            "semititle" : "ดูทั้งหมด"
+        }
+    ]
+}

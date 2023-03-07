@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "Get the Obaki App",
+            "semititle" : "We will send you a link, open it on your phone to download the app",
+            "email" : "Email",
+            "phone" : "Phone",
+            "placeholder" : "Enter Your Email",
+            "button" : "Get Link",
+            "download" : "Download the app now"
+        },
+        {
+            "locale": "thai",
+            "title": "รับแอป Obaki",
+            "semititle" : "เรา จะ ส่ง คุณ ลิงค์, เปิด มัน บน ของคุณ โทรศัพท์ ถึง ดาวน์โหลด แอพ",
+            "email" : "อีเมล",
+            "phone" : "โทรศัพท์",
+            "placeholder" : "ป้อนของคุณ อีเมล",
+            "button" : "รับลิงค์",
+            "download" : "ดาวน์โหลด แอพตอนนี้"
+        }
+    ]
+}

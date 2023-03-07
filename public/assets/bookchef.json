@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "BOOK A CHEF",
+            "semititle": "View All"
+        },
+        {
+            "locale": "thai",
+            "title": "จองเชฟ",
+            "semititle": "ดูทั้งหมด"
+        }
+    ]
+}

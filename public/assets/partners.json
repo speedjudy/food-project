@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "OUR PARTNERS",
+            "semititle" : "OUR AWESOME SERVICES"
+        },
+        {
+            "locale": "thai",
+            "title": "พันธมิตรของเรา",
+            "semititle" : "บริการที่ยอดเยี่ยมของเรา"
+        }
+    ]
+}

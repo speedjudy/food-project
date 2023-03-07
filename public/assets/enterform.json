@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "enter": "Enter your Information",
+            "name": "Name",
+            "country": "Select Country",
+            "state": "State / Province",
+            "experience": "Experience",
+            "genre": "Select Genre",
+            "type": "Select Type",
+            "desc": "Add Description about yourself",
+            "descplace": "Write your description here...",
+            "showimage": "Add your show image (optional) Limit to 5",
+            "button" : "Complete Your Profile",
+            "sign" : "By signing up to create an account I accept the",
+            "terms" : "Terms of use and privacy policy"
+        },
+        {
+            "locale": "thai",
+            "enter": "ป้อนข้อมูลของคุณ",
+            "name": "ชื่อ",
+            "country": "เลือกประเทศ",
+            "state": "สถานะ / จังหวัด",
+            "experience": "ประสบการณ์",
+            "genre" : "เลือกประเภท",
+            "type" : "เลือกประเภท",
+            "desc": "เพิ่มคำอธิบายเกี่ยวกับตัวคุณ",
+            "descplace": "เขียนคำอธิบายของคุณที่นี่...",
+            "showimage": "เพิ่มภาพอาหารของคุณ (ไม่บังคับ) จำกัดที่ 5",
+            "button" : "กรอกโปรไฟล์ของคุณ",
+            "sign" : "โดยการลงทะเบียนเพื่อสร้างบัญชี ฉันยอมรับ",
+            "terms" : "ข้อกำหนดการใช้งานและนโยบายความเป็นส่วนตัว"
+        }
+    ]
+}

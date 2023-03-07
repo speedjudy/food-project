@@ -1,0 +1,22 @@
+{
+  "MainHeading": [
+    {
+      "locale": "en",
+      "title1": "Eat at",
+      "title2": "Chef Home",
+      "title3": "or chef can come to your",
+      "title4": "home",
+      "semiHeading" : "Now you can Book Cooks, Entertainer, and book a room all on one app",
+      "button" : "Book Now"
+    },
+    {
+      "locale": "thai",
+      "title1": "กินที่",
+      "title2": "เชฟโฮม",
+      "title3": "หรือให้เชฟมาก็ได้",
+      "title4": "บ้าน",
+      "semiHeading" : "ตอนนี้ คุณ สามารถ หนังสือ พ่อครัว เอนเตอร์เทนเนอร์ และ จอง ก ห้อง ทั้งหมด บน หนึ่ง แอป",
+      "button" : "จองตอนนี้" 
+    }
+  ]
+}

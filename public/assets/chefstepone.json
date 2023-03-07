@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "Create Your Cook Profile",
+            "semititle" : "Enter you phone Number",
+            "button" : "Continue"
+        },
+        {
+            "locale": "thai",
+            "title": "สร้างโปรไฟล์ของคุณ",
+            "semititle" : "ป้อนหมายเลขโทรศัพท์ของคุณ",
+            "button" : "ดำเนินการต่อ"
+        }
+    ]
+}

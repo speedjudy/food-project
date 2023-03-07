@@ -1,0 +1,17 @@
+{
+    "posts": [
+      {
+        "locale": "en-US",
+        "title": "Sample Title For the First Blog Post in English",
+        "description": "This is the first blog post in English published on the blog",
+        "image": "https://source.unsplash.com/GnvurwJsKaY/1600x900"
+      },
+      
+      {
+        "locale": "it-IT",
+        "title": "Titolo di esempio per il primo post in italiano del blog",
+        "description": "Questo è il primo post in italiano pubblicato nel blog",
+        "image": "https://source.unsplash.com/xG8IQMqMITM/1600x900"
+      }
+    ]
+  }

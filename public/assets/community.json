@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "OUR COMMUNITY",
+            "semititle": "Everyday we are growing big and touching many lives",
+            "meals": "Meals Cooked",
+            "trained": "Trained Home Chefs",
+            "households": "Households Served"
+        },
+        {
+            "locale": "thai",
+            "title": "ชุมชนของเรา",
+            "semititle": "ทุกวันเรากำลังเติบโตขึ้นใหญ่และสัมผัสชีวิตของคนมากๆ",
+            "meals": "อาหารปรุงสุก",
+            "trained": "เชฟประจำบ้านที่ผ่านการฝึกอบรม",
+            "households": "ครัวเรือนที่ให้บริการ"
+        }
+    ]
+}

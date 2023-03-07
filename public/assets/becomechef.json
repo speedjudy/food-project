@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "REGISTER TO BECOME A CHEF",
+            "semititle": "JOIN US AND MAKES AN EXTRA MONEY!",
+            "feature1": "Add your food menu, description, profile and location",
+            "feature2": "You can open to cook at customer home or customer can come to your home",
+            "feature3": "You can design your own package by offer entertainment to finding dining",
+            "feature4": "You can offer a sleep over to your customer on your available room"
+        },
+        {
+            "locale": "thai",
+            "title": "ลงทะเบียนเพื่อเป็นพ่อครัว",
+            "semititle": "เข้าร่วมกับเราและสร้างรายได้พิเศษ!",
+            "feature1": "เพิ่มเมนูอาหาร คำอธิบาย โปรไฟล์ และที่ตั้งของคุณ",
+            "feature2": "จะเปิดทำอาหารที่บ้านลูกค้าหรือลูกค้ามาที่บ้านก็ได้",
+            "feature3": "คุณสามารถออกแบบแพ็คเกจของคุณเองโดยนำเสนอความบันเทิงในการหาอาหาร",
+            "feature4": "คุณสามารถเสนอการนอนค้างให้กับลูกค้าของคุณในห้องว่างของคุณ"
+        }
+    ]
+}

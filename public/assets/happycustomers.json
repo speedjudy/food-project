@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "OUR HAPPY CUSTOMERS",
+            "semititle" : "OUR AWESOME SERVICES"
+        },
+        {
+            "locale": "thai",
+            "title": "ลูกค้าที่มีความสุขของเรา",
+            "semititle" : "บริการที่ยอดเยี่ยมของเรา"
+        }
+    ]
+}

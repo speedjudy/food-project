@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "Create Your Entertainer Profile",
+            "semititle": "Enter your Phone Number",
+            "button" : "Continue"
+        },
+        {
+            "locale": "thai",
+            "title": "สร้างโปรไฟล์ความบันเทิงของคุณ",
+            "semititle": "ป้อนหมายเลขโทรศัพท์ของคุณ",
+            "button" : "ดำเนินการต่อ"
+        }
+    ]
+}

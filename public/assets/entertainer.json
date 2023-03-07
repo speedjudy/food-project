@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "We provide a better platform for independant Entertainers",
+            "button": "Learn how we work",
+            "semititle": "HOW WE WORK",
+            "point1" : "Giving key details like date, number of people, serving style, food preferences and a budget. We will text you about relevant opportunities jobs near you.",
+            "point2" : "You then submit a proposed menu and pricing for each opportunity that interests you. Only 5 chefs can propose on each opportunity to favor pro-active chefs.",
+            "point3" : "Customers select a chef through the site and provide payment details. On the day, you go to the customers home and deliver an amazing Private Chef experience.",
+            "apply":"Apply Now to become a Entertainer"
+        },
+        {
+            "locale": "thai",
+            "title": "เราจัดเตรียมแพลตฟอร์มที่ดีกว่าสำหรับผู้ให้ความบันเทิงอิสระ",
+            "button": "เรียนรู้วิธีการทำงานของเรา",
+            "semititle": "เราทำงานอย่างไร",
+            "point1" : "ให้รายละเอียดที่สำคัญ เช่น วันที่ จำนวนคน สไตล์การเสิร์ฟ ความชอบด้านอาหาร และงบประมาณ เราจะส่งข้อความถึงคุณเกี่ยวกับตำแหน่งงานที่เกี่ยวข้องใกล้ตัวคุณ",
+            "point2" : "จากนั้นคุณส่งเมนูที่เสนอและราคาสำหรับแต่ละโอกาสที่คุณสนใจ ในแต่ละโอกาสจะมีเชฟเพียง 5 คนเท่านั้นที่จะสนับสนุนเชฟที่มีความกระตือรือร้น",
+            "point3" : "ลูกค้าเลือกเชฟผ่านเว็บไซต์และแจ้งรายละเอียดการชำระเงิน ในวันนั้น คุณจะได้ไปเยี่ยมบ้านของลูกค้าและมอบประสบการณ์การเป็นเชฟส่วนตัวที่น่าทึ่ง",
+            "apply":"สมัครตอนนี้เพื่อเป็นเอนเตอร์เทนเนอร์"
+        }
+    ]
+}

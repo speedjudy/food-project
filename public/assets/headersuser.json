@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "locale": "en",
+      "home": "Home",
+      "works": "How it Works",
+      "chef": "Book a Chef",
+      "entertainer": "Book a Entertainer",
+      "room": "Book a Room",
+      "register": "Register",
+      "login": "Login",
+      "cook": "Become a Cook",
+      "enter": "Become a Entertainer",
+      "roomlist": "List your room"
+    },
+    {
+      "locale": "thai",
+      "home": "บ้าน",
+      "works": "มันทำงานอย่างไร",
+      "chef": "จองเชฟ",
+      "entertainer": "จองความบันเทิง",
+      "room": "จองห้อง",
+      "register": "ลงทะเบียน",
+      "login": "เข้าสู่ระบบ",
+      "cook": "เป็นพ่อครัว",
+      "enter": "มาเป็นเอนเตอร์เทนเนอร์",
+      "roomlist": "รายชื่อห้องของคุณ"
+    }
+  ]
+}

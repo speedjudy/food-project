@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "How it Works",
+      "url": "/howitworks"
+    },
+    {
+      "name": "Book a Chef",
+      "url": "/bookachef"
+    },
+    {
+      "name": "Book a Entertainer",
+      "url": "/bookaentertainer"
+    },
+    {
+      "name": "Book a Room",
+      "url": "/room"
+    }
+  ]
+}

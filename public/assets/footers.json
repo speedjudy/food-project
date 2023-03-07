@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "about": "About Us",
+            "chef": "Become Our Chef",
+            "entertainer": "Become a Entertainer",
+            "room": "List Your Room",
+            "bookentertainer" : "Book a Entertainer",
+            "bookroom" : "Book a Room",
+            "bookcook" : "Book a Cook",
+            "health": "Health Test",
+            "blog": "Blogs/News",
+            "investor": "Investors Relations",
+            "career": "Career",
+            "terms": "Terms and Condition",
+            "privacy": "Privacy Policy",
+            "faq": "FAQ",
+            "support": "Support",
+            "contact": "Contact Us",
+            "sitemap": "Sitemap",
+            "join": "JOIN OUR NEWSLETTER",
+            "sign": "Sign up to receive updates on promotions, early access to new products, and more",
+            "email": "Enter Your Email",
+            "subscibe": "Subscribe"
+        },
+        {
+            "locale": "thai",
+            "about": "เกี่ยวกับเรา",
+            "chef": "มาเป็นเชฟของเรา",
+            "entertainer": "มาเป็นเอนเตอร์เทนเนอร์",
+            "room": "รายการห้องของคุณ",
+            "bookentertainer" : "จองผู้ให้ความบันเทิง",
+            "bookroom" : "จองห้อง",
+            "bookcook" : "จองกุ๊ก",
+            "health": "การทดสอบสุขภาพ",
+            "blog": "บล็อก/ข่าว",
+            "investor": "นักลงทุนสัมพันธ์",
+            "career": "อาชีพ",
+            "terms": "ข้อกำหนดและเงื่อนไข",
+            "privacy": "นโยบายความเป็นส่วนตัว",
+            "faq": "FAQ",
+            "support": "สนับสนุน",
+            "contact": "ติดต่อเรา",
+            "sitemap": "แผนผังเว็บไซต์",
+            "join": "เข้าร่วมจดหมายข่าวของเรา",
+            "sign": "ลงทะเบียนเพื่อรับการอัปเดตเกี่ยวกับโปรโมชั่น การเข้าถึงผลิตภัณฑ์ใหม่ก่อนใคร และอื่นๆ อีกมากมาย",
+            "email": "กรอกอีเมล์ของคุณ",
+            "subscibe": "ติดตาม"
+        }
+    ]
+}

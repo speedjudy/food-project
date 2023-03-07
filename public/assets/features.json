@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "FEATURES",
+            "semititle": "OUR AWESOME SERVICES",
+            "feature1": "choose cool that fit your specification",
+            "feature2": "Book a cook, entertainer, or a room",
+            "feature3": "Easy check out wait for cook confirmation",
+            "feature4": "Make a payment and you are done"
+        },
+        {
+            "locale": "thai",
+            "title": "คุณสมบัติ",
+            "semititle": "ของเรา สุดยอด บริการ",
+            "feature1": "เลือก เย็นที่ พอดี ของคุณ ข้อมูลจำเพาะ",
+            "feature2": "จอง ก ทำอาหาร ความบันเทิง หรือห้องพัก",
+            "feature3": "เช็คเอาท์ง่าย ๆ รอการยืนยันจากพ่อครัว",
+            "feature4": "ชำระเงินและคุณทำเสร็จแล้ว"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "BOOK A ENTERTAINER",
+            "semititle" : "View All"
+        },
+        {
+            "locale": "thai",
+            "title": "จองความบันเทิงของคุณ",
+            "semititle" : "ดูทั้งหมด"
+        }
+    ]
+}

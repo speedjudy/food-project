@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "locale": "en",
+            "title": "PICK YOUR FOOD",
+            "category1" : "American",
+            "category2" : "Thai",
+            "category3" : "Italian",
+            "category4" : "Chinese"
+        },
+        {
+            "locale": "thai",
+            "title": "เลือกอาหารของคุณ",
+            "category1" : "อเมริกัน",
+            "category2" : "แบบไทย",
+            "category3" : "ภาษาอิตาลี",
+            "category4" : "ชาวจีน"
+        }
+    ]
+}
